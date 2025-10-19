@@ -34,7 +34,7 @@ Housing_Rental_Data_Analysis/
 
 
 
-## 🧾 Dataset Description
+## Dataset Description
 
 | Column Name | Description |
 |--------------|-------------|
@@ -51,7 +51,7 @@ Housing_Rental_Data_Analysis/
 
 ---
 
-## 📊 Key Objectives
+## Key Objectives
 - Automate the extraction of housing rental data from Housing.com.
 - Clean and preprocess the scraped data for consistency and usability.
 - Perform exploratory data analysis (EDA) to uncover:
@@ -62,7 +62,7 @@ Housing_Rental_Data_Analysis/
 
 ---
 
-## 🧠 Insights (Example Outcomes)
+## Insights (Example Outcomes)
 - **Furnished flats** tend to have a **higher average rent** compared to unfurnished ones.  
 - **Customer contact count** reflects property popularity and demand.  
 - **Built-up area and price** show a positive correlation across most cities.  
