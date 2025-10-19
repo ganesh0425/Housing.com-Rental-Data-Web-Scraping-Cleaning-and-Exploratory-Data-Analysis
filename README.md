@@ -1,0 +1,2 @@
+# Housing.com-Rental-Data-Web-Scraping-Cleaning-and-Exploratory-Data-Analysis
+This project involves collecting real-estate rental data from Housing.com using BeautifulSoup and Regex, followed by data cleaning, preprocessing, and exploratory data analysis (EDA). The goal is to extract meaningful insights on rental trends, property characteristics, and city-based comparisons to understand India’s housing rental landscape.
